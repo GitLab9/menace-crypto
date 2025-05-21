@@ -6,7 +6,10 @@
 
 body{
     font-family: nexa;
-    background-color: aqua;
+    background-color: rgb(0, 0, 0);
+    color: #76ff76;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 24px;
 }
 
 
@@ -18,6 +21,7 @@ ul{
 
 a{
     text-decoration: none;
+    color: rgb(96, 255, 87);
 }
 
 section{
@@ -39,7 +43,10 @@ section{
         padding: 125px 30px;
     }
 }
-
+.logo{
+    width: 20%;
+    height: 3%;
+}
 header{
 
     position:absolute;
@@ -49,7 +56,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: bisque;
+    color: rgb(22, 255, 146);
     padding: 35px 100px 0px
 
 }
@@ -57,6 +64,7 @@ header{
 header a{
     text-transform: capitalize;
     font-weight: 900;
+    color: #76ff76;
 }
 
 header h2{
@@ -65,6 +73,7 @@ header h2{
 
 header .nav{
     display: flex;
+    justify-content: space-between;
     gap: 19px;
 }
 header .nav li{
@@ -79,7 +88,96 @@ header .nav li:last-child{
 }
 
 
-.video{
+
+@media (max-width:1000px){
+    header{
+        padding: 20% 50%;
+    }
+}
+
+@media (max-width:700px){
+    header{
+        flex-direction: column;
+    }
+    header h2{
+        margin-bottom: 15px;
+    }
+    header .nav li{
+        
+        margin: 0 7px;
+
+    }
+}
+
+.box{
+    position: relative;
+    justify-content:center;
+    min-height: 100vh;
+    color: rgb(4, 255, 0);
+    text-align: center;
+    
+}
+.box video{
+    position: absolute;
+    left:0;
+    top:0;
     width: 100%;
-};
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.box h1{
+    margin: 15px;
+    font-size:65px;
+    text-transform: uppercase;
+    text-shadow: 0 2px 2px rgba(4, 255, 33, 0.5);
+}
+
+.box h2{
+    margin-bottom: 40px;
+    font-size: 25px;
+}
+
+.box a.boxbtn{
+    padding: 15px 35px;
+    background: transparent;
+    border-radius: 50px;
+    color: beige;
+    text-transform: uppercase;
+    border: 4px solid rgb(75, 255, 96);
+    transition:all .5s;
+
+}
+
+.box a.boxbtn:hover{
+    background-color: rgba(21, 255, 0, 0.612);
+    color: aliceblue;
+
+}
+@media (max-width:800px){
+    .box{
+        min-height: 600px;
+    }
+
+    .box h1{
+        font-size: 32px;
+    }
+
+    .box h2 {
+        font-size: 28px;
+    }
+
+    .box a.boxbtn{
+        padding: 15px 40px;
+
+    }
+
+
+}
+
+
+
+
+
 
