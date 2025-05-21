@@ -1,0 +1,178 @@
+{
+
+  "journal": {
+
+    "nomJournal": "Crypto Vigilance",
+
+    "phraseAccroche": "Démasquez les arnaques, protégez vos investissements",
+
+    "texteAppelAction": "Abonnez-vous pour rester informé des dernières menaces et éviter les pièges du web3",
+
+    "articlePrincipal": {
+
+      "titre": "Crypto scams en 2025 : les nouvelles méthodes des fraudeurs",
+
+      "description": "Du faux projet DeFi aux influenceurs douteux, découvrez les tendances des escroqueries crypto les plus courantes cette année.",
+
+      "date": "20 Mai 2025",
+
+      "theme": "Tendances & menaces",
+
+      "image": "https://cdn.pixabay.com/photo/2021/08/09/17/06/bitcoin-6539482_1280.jpg"
+
+    },
+
+    "articles": [
+
+      {
+
+        "titre": "Comment repérer un rug pull avant qu’il ne soit trop tard",
+
+        "date": "12 Mai 2025",
+
+        "theme": "Éducation & prévention",
+
+        "image": "https://cdn.pixabay.com/photo/2021/06/07/06/28/bitcoin-6311177_1280.jpg"
+
+      },
+
+      {
+
+        "titre": "L’affaire BitGlory : enquête sur une pyramide financière moderne",
+
+        "date": "28 Avril 2025",
+
+        "theme": "Enquêtes",
+
+        "image": "https://cdn.pixabay.com/photo/2021/01/21/11/15/cryptocurrency-5937567_1280.jpg"
+
+      },
+
+      {
+
+        "titre": "NFT frauduleux : quand l’art devient une couverture",
+
+        "date": "10 Avril 2025",
+
+        "theme": "Cybersécurité & crypto-art",
+
+        "image": "https://cdn.pixabay.com/photo/2021/03/04/09/56/nft-6068668_1280.jpg"
+
+      },
+
+      {
+
+        "titre": "Les zones grises de la régulation crypto en Europe",
+
+        "date": "25 Mars 2025",
+
+        "theme": "Réglementation",
+
+        "image": "https://cdn.pixabay.com/photo/2021/12/01/11/59/blockchain-6838578_1280.jpg"
+
+      },
+
+      {
+
+        "titre": "Influenceurs et tokens : manipulation de masse sur les réseaux",
+
+        "date": "8 Mars 2025",
+
+        "theme": "Manipulation & médias",
+
+        "image": "https://cdn.pixabay.com/photo/2020/04/28/09/16/fraud-5108576_1280.jpg"
+
+      }
+
+    ],
+
+    "themes": [
+
+      {
+
+        "nom": "Tendances & menaces",
+
+        "description": "Les nouvelles formes d’escroqueries et leurs modes opératoires."
+
+      },
+
+      {
+
+        "nom": "Éducation & prévention",
+
+        "description": "Apprendre à repérer les signaux d’alerte pour ne pas se faire piéger."
+
+      },
+
+      {
+
+        "nom": "Enquêtes",
+
+        "description": "Analyses approfondies de cas réels d’arnaques crypto."
+
+      },
+
+      {
+
+        "nom": "Cybersécurité & crypto-art",
+
+        "description": "Comment les technologies et les NFTs sont utilisés à des fins frauduleuses."
+
+      },
+
+      {
+
+        "nom": "Réglementation",
+
+        "description": "Lois, régulations et zones d’ombre dans le domaine crypto."
+
+      },
+
+      {
+
+        "nom": "Manipulation & médias",
+
+        "description": "Le rôle des influenceurs, forums, et réseaux dans la diffusion des scams."
+
+      }
+
+    ],
+
+    "auteurs": [
+
+      {
+
+        "prenom": "Claire",
+
+        "typeExperience": "Analyste en cybersécurité",
+
+        "presentation": "Je m'intéresse aux failles et aux fraudes dans le web3 pour mieux protéger les utilisateurs."
+
+      },
+
+      {
+
+        "prenom": "Thomas",
+
+        "typeExperience": "Journaliste crypto",
+
+        "presentation": "Je mène des enquêtes sur les arnaques pour exposer les pratiques douteuses du marché."
+
+      },
+
+      {
+
+        "prenom": "Elena",
+
+        "typeExperience": "Juriste spécialisée blockchain",
+
+        "presentation": "J'analyse les cadres légaux en évolution face aux nouvelles pratiques frauduleuses."
+
+      }
+
+    ]
+
+  }
+
+}
+
